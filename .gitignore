@@ -1,6 +1,6 @@
 src/*.exe
-src/smallchange
-src/test_smallchange
+src/rgrcoin
+src/test_rgrcoin
 src/build.h
 .*.swp
 *.*~*
@@ -13,7 +13,7 @@ src/build.h
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-smallchange-qt
+rgrcoin-qt
 #resources cpp
 qrc_*.cpp
 #qt creator
